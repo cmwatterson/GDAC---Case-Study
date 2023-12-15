@@ -8,30 +8,30 @@ Google Data Analytics Certification - Capstone Case Study
 3. How can Cyclistic use digital media to inuence casual riders to become members?
 
 -------
-#Data Sources
+# Data Sources
 
 
 -------
-#Data Cleaning
-
-
-
--------
-#Process
+# Data Cleaning
 
 
 
 -------
-#Summary
-
+# Process
 
 
 
 -------
-#Visualizations
+# Summary
 
 
 
 
 -------
-#Recommendations
+# Visualizations
+
+
+
+
+-------
+# Recommendations
